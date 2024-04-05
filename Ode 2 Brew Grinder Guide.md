@@ -8,6 +8,9 @@ Gen 2 Burrs
 - AeroPress
   - 3-6
   - 1:15
+- Chemex
+  - 4-8
+  - 1:15
 - Pour-Over
   - 4-8
   - 1:16
